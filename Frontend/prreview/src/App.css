@@ -1,0 +1,17 @@
+.App{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.connect{
+  color: white;
+  background-color: black;
+  font-size: medium;
+  padding: 0.5rem;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
